@@ -74,7 +74,7 @@ export default function Home() {
       setCurrentQuestionIndex(prevIndex => prevIndex + 1);
       setSelectedAnswer(null);
       setShowNextButton(false);
-      setTimer(29);
+      setTimer(30);
     } else {
       setQuizCompleted(true);
     }
@@ -86,7 +86,7 @@ export default function Home() {
     setScore(0);
     setSelectedAnswer(null);
     setShowNextButton(false);
-    setTimer(29);
+    setTimer(30);
     setQuizCompleted(false);
   };
 
@@ -117,6 +117,7 @@ export default function Home() {
                 </div>
               </div>
             </div>
+
 
             <div className="text-right">
               <div className="text-lg font-medium">{currentQuestionIndex + 1} of {questions.length}</div>
