@@ -19,6 +19,7 @@ interface QuizCardProps {
 }
 
 const QuizCard: React.FC<QuizCardProps> = ({ question, onSelectAnswer, selectedAnswer }) => {
+    // eslint-disable-next-line @typescript-eslint/no-unused-vars
     const correctOption = question.options.find(option => option.isCorrect)?.text;
 
     return (
