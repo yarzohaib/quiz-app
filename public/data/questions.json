@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "question": "What country borders both Eritrea and Djibouti?",
+        "options": [
+            {
+                "text": "Nigeria",
+                "isCorrect": false
+            },
+            {
+                "text": "Algeria",
+                "isCorrect": false
+            },
+            {
+                "text": "South Africa",
+                "isCorrect": false
+            },
+            {
+                "text": "Ethiopia",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question": "What country do Poland and Switzerland both touch?",
+        "options": [
+            {
+                "text": "Germany",
+                "isCorrect": true
+            },
+            {
+                "text": "Italy",
+                "isCorrect": false
+            },
+            {
+                "text": "Hungary",
+                "isCorrect": false
+            },
+            {
+                "text": "Austria",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question": "What country shares a border with the Dominican Republic?",
+        "options": [
+            {
+                "text": "Barbados",
+                "isCorrect": false
+            },
+            {
+                "text": "Jamaica",
+                "isCorrect": false
+            },
+            {
+                "text": "Bahamas",
+                "isCorrect": false
+            },
+            {
+                "text": "Haiti",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question": "What country touches both Malaysia and Papua New Guinea?",
+        "options": [
+            {
+                "text": "Philippines",
+                "isCorrect": false
+            },
+            {
+                "text": "Indonesia",
+                "isCorrect": true
+            },
+            {
+                "text": "Austrailia",
+                "isCorrect": false
+            },
+            {
+                "text": "Japan",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "question": "What country touches both Yemen and Oman?",
+        "options": [
+            {
+                "text": "United Arab Emirates",
+                "isCorrect": false
+            },
+            {
+                "text": "Saudia Arabia",
+                "isCorrect": true
+            },
+            {
+                "text": "Qatar",
+                "isCorrect": false
+            },
+            {
+                "text": "Kuwait",
+                "isCorrect": false
+            }
+        ]
+    }
+]
